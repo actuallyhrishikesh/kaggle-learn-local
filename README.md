@@ -63,7 +63,7 @@ Read the tutorial, then do the exercise.
 ### 1. Get the code
 
 ```bash
-git clone https://github.com/<your-username>/kaggle-learn-local.git
+git clone https://github.com/actuallyhrishikesh/kaggle-learn-local.git
 ```
 
 ```bash
