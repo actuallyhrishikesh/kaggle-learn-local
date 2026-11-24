@@ -1,0 +1,6 @@
+# Geospatial Analysis
+-r ../requirements.txt
+geopandas
+shapely
+folium
+geopy

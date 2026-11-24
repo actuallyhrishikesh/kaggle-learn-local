@@ -1,0 +1,7 @@
+# Intro to Game AI and Reinforcement Learning
+-r ../requirements.txt
+kaggle-environments
+gym
+stable-baselines3
+shimmy>=0.2.1
+torch

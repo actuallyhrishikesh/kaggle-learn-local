@@ -1,0 +1,11 @@
+# Retired courses in courses/legacy-*
+-r deep-learning.txt
+spacy
+gensim
+adjustText
+lightgbm
+google-cloud-bigquery
+db-dtypes
+# After installing:
+#   python -m spacy download en_core_web_sm
+#   python -m spacy download en_core_web_lg

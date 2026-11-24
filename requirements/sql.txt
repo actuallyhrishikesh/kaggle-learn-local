@@ -1,0 +1,4 @@
+# Intro to SQL, Advanced SQL  (needs a Google Cloud project, see README)
+-r ../requirements.txt
+google-cloud-bigquery
+db-dtypes

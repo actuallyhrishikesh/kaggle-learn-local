@@ -1,0 +1,31 @@
+# Core setup: enough for Intro to Programming, Python, Intro to ML, Pandas,
+# Intermediate ML, Data Visualization, Feature Engineering, Time Series,
+# Data Cleaning and AI Ethics.
+# Extra courses need one more file from requirements/ (see README).
+#
+# Tested with Python 3.11.
+
+# NOTE: Kaggle's exercise-checking library `learntools` is installed in a second
+# step (its setup.py imports pandas, so it needs these packages first):
+#   pip install --no-build-isolation git+https://github.com/Kaggle/learntools.git
+
+setuptools
+wheel
+
+# Downloading course data
+kaggle>=1.6
+
+# Notebook environment
+jupyterlab>=4
+ipywidgets>=8
+
+# Data science stack
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+xgboost
+statsmodels
+category_encoders

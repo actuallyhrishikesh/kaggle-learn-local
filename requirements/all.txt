@@ -1,0 +1,7 @@
+# Everything for the current courses (not legacy). Large download.
+-r deep-learning.txt
+-r sql.txt
+-r geospatial.txt
+-r explainability.txt
+-r data-cleaning.txt
+-r game-ai.txt

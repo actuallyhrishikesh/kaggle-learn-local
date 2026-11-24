@@ -1,0 +1,7 @@
+# Intro to Deep Learning, Computer Vision (and Python lesson 7)
+-r ../requirements.txt
+tensorflow>=2.15,<2.17   # newer versions ship Keras 3, which breaks some course code
+tensorflow-hub
+scikit-image
+sympy
+# Apple Silicon GPU acceleration (optional):  pip install tensorflow-metal

@@ -1,0 +1,5 @@
+# Machine Learning Explainability
+-r ../requirements.txt
+eli5>=0.13
+shap
+graphviz

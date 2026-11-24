@@ -1,0 +1,25 @@
+# Downloaded course data
+courses/input/
+
+# Things notebooks write while you work
+courses/*/submission*.csv
+courses/*/*.csv
+courses/*/*.h5
+courses/*/*.keras
+courses/*/*.pkl
+courses/*/*.html
+!courses/*/README.md
+
+# Secrets
+kaggle.json
+access_token
+.env
+*.json.key
+
+# Python / Jupyter
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store

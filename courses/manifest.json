@@ -1,0 +1,3695 @@
+{
+  "source": "https://github.com/Kaggle/learntools",
+  "learntools_commit": "e9ba66dc899d3e17b80d3a1b9a5d29f430d310cb",
+  "courses": [
+    {
+      "dir": "01-intro-to-programming",
+      "upstream_track": "intro_to_programming",
+      "name": "Intro to Programming",
+      "url": "https://www.kaggle.com/learn/intro-to-programming",
+      "legacy": false,
+      "datasets": [],
+      "competitions": [
+        "titanic"
+      ],
+      "kernels": [],
+      "notebooks": [
+        {
+          "file": "01-tutorial-arithmetic-and-variables.ipynb",
+          "type": "tutorial",
+          "title": "Arithmetic and Variables",
+          "lesson": "Arithmetic and Variables",
+          "original": "https://www.kaggle.com/alexisbcook/arithmetic-and-variables",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "01-exercise-arithmetic-and-variables.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Arithmetic and Variables",
+          "lesson": "Arithmetic and Variables",
+          "original": "https://www.kaggle.com/alexisbcook/exercise-arithmetic-and-variables",
+          "datasets": [],
+          "competitions": [
+            "titanic"
+          ],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "02-tutorial-functions.ipynb",
+          "type": "tutorial",
+          "title": "Functions",
+          "lesson": "Functions",
+          "original": "https://www.kaggle.com/alexisbcook/functions",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "02-exercise-functions.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Functions",
+          "lesson": "Functions",
+          "original": "https://www.kaggle.com/alexisbcook/exercise-functions",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "03-tutorial-data-types.ipynb",
+          "type": "tutorial",
+          "title": "Data Types",
+          "lesson": "Data Types",
+          "original": "https://www.kaggle.com/alexisbcook/data-types",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "03-exercise-data-types.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Data Types",
+          "lesson": "Data Types",
+          "original": "https://www.kaggle.com/alexisbcook/exercise-data-types",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "04-tutorial-conditions-and-conditional-statements.ipynb",
+          "type": "tutorial",
+          "title": "Conditions and Conditional Statements",
+          "lesson": "Conditions and Conditional Statements",
+          "original": "https://www.kaggle.com/alexisbcook/conditions-and-conditional-statements",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "04-exercise-conditions-and-conditional-statements.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Conditions and Conditional Statements",
+          "lesson": "Conditions and Conditional Statements",
+          "original": "https://www.kaggle.com/alexisbcook/exercise-conditions-and-conditional-statements",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "05-tutorial-intro-to-lists.ipynb",
+          "type": "tutorial",
+          "title": "Intro to Lists",
+          "lesson": "Intro to Lists",
+          "original": "https://www.kaggle.com/alexisbcook/intro-to-lists",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "05-exercise-intro-to-lists.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Intro to Lists",
+          "lesson": "Intro to Lists",
+          "original": "https://www.kaggle.com/alexisbcook/exercise-intro-to-lists",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        }
+      ]
+    },
+    {
+      "dir": "02-python",
+      "upstream_track": "python",
+      "name": "Python",
+      "url": "https://www.kaggle.com/learn/python",
+      "legacy": false,
+      "datasets": [],
+      "competitions": [],
+      "kernels": [],
+      "notebooks": [
+        {
+          "file": "01-tutorial-syntax-variable-assignment-and-numbers.ipynb",
+          "type": "tutorial",
+          "title": "Hello, Python",
+          "lesson": "syntax, variable assignment, and numbers",
+          "original": "https://www.kaggle.com/colinmorris/hello-python",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "01-exercise-syntax-variable-assignment-and-numbers.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Syntax, Variables, and Numbers",
+          "lesson": "syntax, variable assignment, and numbers",
+          "original": "https://www.kaggle.com/colinmorris/exercise-syntax-variables-and-numbers",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "02-tutorial-functions-and-getting-help.ipynb",
+          "type": "tutorial",
+          "title": "Functions and Getting Help",
+          "lesson": "functions and getting help",
+          "original": "https://www.kaggle.com/colinmorris/functions-and-getting-help",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "02-exercise-functions-and-getting-help.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Functions and Getting Help",
+          "lesson": "functions and getting help",
+          "original": "https://www.kaggle.com/colinmorris/exercise-functions-and-getting-help",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "03-tutorial-booleans-and-conditionals.ipynb",
+          "type": "tutorial",
+          "title": "Booleans and Conditionals",
+          "lesson": "booleans and conditionals",
+          "original": "https://www.kaggle.com/colinmorris/booleans-and-conditionals",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "03-exercise-booleans-and-conditionals.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Booleans and Conditionals",
+          "lesson": "booleans and conditionals",
+          "original": "https://www.kaggle.com/colinmorris/exercise-booleans-and-conditionals",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "04-tutorial-lists-and-tuples.ipynb",
+          "type": "tutorial",
+          "title": "Lists",
+          "lesson": "lists and tuples",
+          "original": "https://www.kaggle.com/colinmorris/lists",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "04-exercise-lists-and-tuples.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Lists",
+          "lesson": "lists and tuples",
+          "original": "https://www.kaggle.com/colinmorris/exercise-lists",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "05-tutorial-loops-and-list-comprehensions.ipynb",
+          "type": "tutorial",
+          "title": "Loops and List Comprehensions",
+          "lesson": "loops and list comprehensions",
+          "original": "https://www.kaggle.com/colinmorris/loops-and-list-comprehensions",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "05-exercise-loops-and-list-comprehensions.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Loops and List Comprehensions",
+          "lesson": "loops and list comprehensions",
+          "original": "https://www.kaggle.com/colinmorris/exercise-loops-and-list-comprehensions",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "06-tutorial-strings-and-dictionaries.ipynb",
+          "type": "tutorial",
+          "title": "Strings and Dictionaries",
+          "lesson": "strings and dictionaries",
+          "original": "https://www.kaggle.com/colinmorris/strings-and-dictionaries",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "06-exercise-strings-and-dictionaries.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Strings and Dictionaries",
+          "lesson": "strings and dictionaries",
+          "original": "https://www.kaggle.com/colinmorris/exercise-strings-and-dictionaries",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "07-tutorial-imports.ipynb",
+          "type": "tutorial",
+          "title": "Working with External Libraries",
+          "lesson": "imports",
+          "original": "https://www.kaggle.com/colinmorris/working-with-external-libraries",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "07-exercise-imports.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Working with External Libraries",
+          "lesson": "imports",
+          "original": "https://www.kaggle.com/colinmorris/exercise-working-with-external-libraries",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        }
+      ]
+    },
+    {
+      "dir": "03-intro-to-machine-learning",
+      "upstream_track": "machine_learning",
+      "name": "Introduction to Machine Learning",
+      "url": "https://www.kaggle.com/learn/intro-to-machine-learning",
+      "legacy": false,
+      "datasets": [
+        "dansbecker/melbourne-housing-snapshot",
+        "iabhishekofficial/mobile-price-classification"
+      ],
+      "competitions": [
+        "home-data-for-ml-course",
+        "house-prices-advanced-regression-techniques",
+        "new-york-city-taxi-fare-prediction",
+        "titanic"
+      ],
+      "kernels": [
+        "alexisbcook/automl-tables-wrapper"
+      ],
+      "notebooks": [
+        {
+          "file": "01-tutorial-how-models-work.ipynb",
+          "type": "tutorial",
+          "title": "How Models Work",
+          "lesson": "How Models Work",
+          "original": "https://www.kaggle.com/dansbecker/how-models-work",
+          "datasets": [
+            "dansbecker/melbourne-housing-snapshot",
+            "iabhishekofficial/mobile-price-classification"
+          ],
+          "competitions": [
+            "home-data-for-ml-course"
+          ],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "02-tutorial-basic-data-exploration.ipynb",
+          "type": "tutorial",
+          "title": "Basic Data Exploration",
+          "lesson": "Basic Data Exploration",
+          "original": "https://www.kaggle.com/dansbecker/basic-data-exploration",
+          "datasets": [
+            "dansbecker/melbourne-housing-snapshot",
+            "iabhishekofficial/mobile-price-classification"
+          ],
+          "competitions": [
+            "home-data-for-ml-course"
+          ],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "02-exercise-basic-data-exploration.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Basic Data Exploration",
+          "lesson": "Basic Data Exploration",
+          "original": "https://www.kaggle.com/dansbecker/exercise-basic-data-exploration",
+          "datasets": [
+            "dansbecker/melbourne-housing-snapshot",
+            "iabhishekofficial/mobile-price-classification"
+          ],
+          "competitions": [
+            "home-data-for-ml-course"
+          ],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "03-tutorial-your-first-machine-learning-model.ipynb",
+          "type": "tutorial",
+          "title": "Your First Machine Learning Model",
+          "lesson": "Your First Machine Learning Model",
+          "original": "https://www.kaggle.com/dansbecker/your-first-machine-learning-model",
+          "datasets": [
+            "dansbecker/melbourne-housing-snapshot",
+            "iabhishekofficial/mobile-price-classification"
+          ],
+          "competitions": [
+            "home-data-for-ml-course"
+          ],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "03-exercise-your-first-machine-learning-model.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Your First Machine Learning Model",
+          "lesson": "Your First Machine Learning Model",
+          "original": "https://www.kaggle.com/dansbecker/exercise-your-first-machine-learning-model",
+          "datasets": [
+            "dansbecker/melbourne-housing-snapshot",
+            "iabhishekofficial/mobile-price-classification"
+          ],
+          "competitions": [
+            "home-data-for-ml-course"
+          ],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "04-tutorial-model-validation.ipynb",
+          "type": "tutorial",
+          "title": "Model Validation",
+          "lesson": "Model Validation",
+          "original": "https://www.kaggle.com/dansbecker/model-validation",
+          "datasets": [
+            "dansbecker/melbourne-housing-snapshot",
+            "iabhishekofficial/mobile-price-classification"
+          ],
+          "competitions": [
+            "home-data-for-ml-course"
+          ],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "04-exercise-model-validation.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Model Validation",
+          "lesson": "Model Validation",
+          "original": "https://www.kaggle.com/dansbecker/exercise-model-validation",
+          "datasets": [
+            "dansbecker/melbourne-housing-snapshot",
+            "iabhishekofficial/mobile-price-classification"
+          ],
+          "competitions": [
+            "home-data-for-ml-course"
+          ],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "05-tutorial-underfitting-and-overfitting.ipynb",
+          "type": "tutorial",
+          "title": "Underfitting and Overfitting",
+          "lesson": "Underfitting and Overfitting",
+          "original": "https://www.kaggle.com/dansbecker/underfitting-and-overfitting",
+          "datasets": [
+            "dansbecker/melbourne-housing-snapshot",
+            "iabhishekofficial/mobile-price-classification"
+          ],
+          "competitions": [
+            "home-data-for-ml-course"
+          ],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "05-exercise-underfitting-and-overfitting.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Underfitting and Overfitting",
+          "lesson": "Underfitting and Overfitting",
+          "original": "https://www.kaggle.com/dansbecker/exercise-underfitting-and-overfitting",
+          "datasets": [
+            "dansbecker/melbourne-housing-snapshot",
+            "iabhishekofficial/mobile-price-classification"
+          ],
+          "competitions": [
+            "home-data-for-ml-course"
+          ],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "06-tutorial-random-forests.ipynb",
+          "type": "tutorial",
+          "title": "Random Forests",
+          "lesson": "Random Forests",
+          "original": "https://www.kaggle.com/dansbecker/random-forests",
+          "datasets": [
+            "dansbecker/melbourne-housing-snapshot",
+            "iabhishekofficial/mobile-price-classification"
+          ],
+          "competitions": [
+            "home-data-for-ml-course"
+          ],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "06-exercise-random-forests.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Random Forests",
+          "lesson": "Random Forests",
+          "original": "https://www.kaggle.com/dansbecker/exercise-random-forests",
+          "datasets": [
+            "dansbecker/melbourne-housing-snapshot",
+            "iabhishekofficial/mobile-price-classification"
+          ],
+          "competitions": [
+            "home-data-for-ml-course"
+          ],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "07-tutorial-machine-learning-competitions.ipynb",
+          "type": "tutorial",
+          "title": "Machine Learning Competitions",
+          "lesson": "Machine Learning Competitions",
+          "original": "https://www.kaggle.com/alexisbcook/machine-learning-competitions",
+          "datasets": [
+            "dansbecker/melbourne-housing-snapshot",
+            "iabhishekofficial/mobile-price-classification"
+          ],
+          "competitions": [
+            "home-data-for-ml-course"
+          ],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "07-exercise-machine-learning-competitions.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Machine Learning Competitions",
+          "lesson": "Machine Learning Competitions",
+          "original": "https://www.kaggle.com/dansbecker/exercise-machine-learning-competitions",
+          "datasets": [],
+          "competitions": [
+            "home-data-for-ml-course"
+          ],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "08-tutorial-intro-to-automl.ipynb",
+          "type": "tutorial",
+          "title": "Intro to AutoML",
+          "lesson": "Intro to AutoML",
+          "original": "https://www.kaggle.com/alexisbcook/intro-to-automl",
+          "datasets": [],
+          "competitions": [
+            "new-york-city-taxi-fare-prediction"
+          ],
+          "kernels": [
+            "alexisbcook/automl-tables-wrapper"
+          ],
+          "gpu": false
+        },
+        {
+          "file": "08-exercise-intro-to-automl.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Intro to AutoML",
+          "lesson": "Intro to AutoML",
+          "original": "https://www.kaggle.com/alexisbcook/exercise-intro-to-automl",
+          "datasets": [],
+          "competitions": [
+            "house-prices-advanced-regression-techniques"
+          ],
+          "kernels": [
+            "alexisbcook/automl-tables-wrapper"
+          ],
+          "gpu": false
+        },
+        {
+          "file": "09-tutorial-getting-started-with-titanic.ipynb",
+          "type": "tutorial",
+          "title": "Getting Started with Titanic",
+          "lesson": "Getting Started with Titanic",
+          "original": "https://www.kaggle.com/alexisbcook/getting-started-with-titanic",
+          "datasets": [],
+          "competitions": [
+            "titanic"
+          ],
+          "kernels": [],
+          "gpu": false
+        }
+      ]
+    },
+    {
+      "dir": "04-pandas",
+      "upstream_track": "pandas",
+      "name": "Pandas",
+      "url": "https://www.kaggle.com/learn/pandas",
+      "legacy": false,
+      "datasets": [
+        "dansbecker/powerlifting-database",
+        "datasnaek/chess",
+        "datasnaek/youtube-new",
+        "jpmiller/publicassistance",
+        "nasa/kepler-exoplanet-search-results",
+        "nolanbconaway/pitchfork-data",
+        "residentmario/ramen-ratings",
+        "residentmario/things-on-reddit",
+        "rtatman/188-million-us-wildfires",
+        "zynicide/wine-reviews"
+      ],
+      "competitions": [],
+      "kernels": [],
+      "notebooks": [
+        {
+          "file": "01-tutorial-creating-reading-and-writing.ipynb",
+          "type": "tutorial",
+          "title": "Creating, Reading and Writing",
+          "lesson": "Creating, Reading and Writing",
+          "original": "https://www.kaggle.com/residentmario/creating-reading-and-writing",
+          "datasets": [
+            "dansbecker/powerlifting-database",
+            "datasnaek/chess",
+            "datasnaek/youtube-new",
+            "jpmiller/publicassistance",
+            "nasa/kepler-exoplanet-search-results",
+            "nolanbconaway/pitchfork-data",
+            "residentmario/ramen-ratings",
+            "residentmario/things-on-reddit",
+            "rtatman/188-million-us-wildfires",
+            "zynicide/wine-reviews"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "01-exercise-creating-reading-and-writing.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Creating, Reading and Writing",
+          "lesson": "Creating, Reading and Writing",
+          "original": "https://www.kaggle.com/residentmario/exercise-creating-reading-and-writing",
+          "datasets": [
+            "dansbecker/powerlifting-database",
+            "datasnaek/chess",
+            "datasnaek/youtube-new",
+            "jpmiller/publicassistance",
+            "nasa/kepler-exoplanet-search-results",
+            "nolanbconaway/pitchfork-data",
+            "residentmario/ramen-ratings",
+            "residentmario/things-on-reddit",
+            "rtatman/188-million-us-wildfires",
+            "zynicide/wine-reviews"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "02-tutorial-indexing-selecting-assigning.ipynb",
+          "type": "tutorial",
+          "title": "Indexing, Selecting & Assigning",
+          "lesson": "Indexing, Selecting & Assigning",
+          "original": "https://www.kaggle.com/residentmario/indexing-selecting-assigning",
+          "datasets": [
+            "dansbecker/powerlifting-database",
+            "datasnaek/chess",
+            "datasnaek/youtube-new",
+            "jpmiller/publicassistance",
+            "nasa/kepler-exoplanet-search-results",
+            "nolanbconaway/pitchfork-data",
+            "residentmario/ramen-ratings",
+            "residentmario/things-on-reddit",
+            "rtatman/188-million-us-wildfires",
+            "zynicide/wine-reviews"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "02-exercise-indexing-selecting-assigning.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Indexing, Selecting & Assigning",
+          "lesson": "Indexing, Selecting & Assigning",
+          "original": "https://www.kaggle.com/residentmario/exercise-indexing-selecting-assigning",
+          "datasets": [
+            "dansbecker/powerlifting-database",
+            "datasnaek/chess",
+            "datasnaek/youtube-new",
+            "jpmiller/publicassistance",
+            "nasa/kepler-exoplanet-search-results",
+            "nolanbconaway/pitchfork-data",
+            "residentmario/ramen-ratings",
+            "residentmario/things-on-reddit",
+            "rtatman/188-million-us-wildfires",
+            "zynicide/wine-reviews"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "03-tutorial-summary-functions-and-maps.ipynb",
+          "type": "tutorial",
+          "title": "Summary Functions and Maps",
+          "lesson": "Summary Functions and Maps",
+          "original": "https://www.kaggle.com/residentmario/summary-functions-and-maps",
+          "datasets": [
+            "dansbecker/powerlifting-database",
+            "datasnaek/chess",
+            "datasnaek/youtube-new",
+            "jpmiller/publicassistance",
+            "nasa/kepler-exoplanet-search-results",
+            "nolanbconaway/pitchfork-data",
+            "residentmario/ramen-ratings",
+            "residentmario/things-on-reddit",
+            "rtatman/188-million-us-wildfires",
+            "zynicide/wine-reviews"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "03-exercise-summary-functions-and-maps.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Summary Functions and Maps",
+          "lesson": "Summary Functions and Maps",
+          "original": "https://www.kaggle.com/residentmario/exercise-summary-functions-and-maps",
+          "datasets": [
+            "dansbecker/powerlifting-database",
+            "datasnaek/chess",
+            "datasnaek/youtube-new",
+            "jpmiller/publicassistance",
+            "nasa/kepler-exoplanet-search-results",
+            "nolanbconaway/pitchfork-data",
+            "residentmario/ramen-ratings",
+            "residentmario/things-on-reddit",
+            "rtatman/188-million-us-wildfires",
+            "zynicide/wine-reviews"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "04-tutorial-grouping-and-sorting.ipynb",
+          "type": "tutorial",
+          "title": "Grouping and Sorting",
+          "lesson": "Grouping And Sorting",
+          "original": "https://www.kaggle.com/residentmario/grouping-and-sorting",
+          "datasets": [
+            "dansbecker/powerlifting-database",
+            "datasnaek/chess",
+            "datasnaek/youtube-new",
+            "jpmiller/publicassistance",
+            "nasa/kepler-exoplanet-search-results",
+            "nolanbconaway/pitchfork-data",
+            "residentmario/ramen-ratings",
+            "residentmario/things-on-reddit",
+            "rtatman/188-million-us-wildfires",
+            "zynicide/wine-reviews"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "04-exercise-grouping-and-sorting.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Grouping and Sorting",
+          "lesson": "Grouping And Sorting",
+          "original": "https://www.kaggle.com/residentmario/exercise-grouping-and-sorting",
+          "datasets": [
+            "dansbecker/powerlifting-database",
+            "datasnaek/chess",
+            "datasnaek/youtube-new",
+            "jpmiller/publicassistance",
+            "nasa/kepler-exoplanet-search-results",
+            "nolanbconaway/pitchfork-data",
+            "residentmario/ramen-ratings",
+            "residentmario/things-on-reddit",
+            "rtatman/188-million-us-wildfires",
+            "zynicide/wine-reviews"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "05-tutorial-data-types-and-missing-values.ipynb",
+          "type": "tutorial",
+          "title": "Data Types and Missing Values",
+          "lesson": "Data Types And Missing Values",
+          "original": "https://www.kaggle.com/residentmario/data-types-and-missing-values",
+          "datasets": [
+            "dansbecker/powerlifting-database",
+            "datasnaek/chess",
+            "datasnaek/youtube-new",
+            "jpmiller/publicassistance",
+            "nasa/kepler-exoplanet-search-results",
+            "nolanbconaway/pitchfork-data",
+            "residentmario/ramen-ratings",
+            "residentmario/things-on-reddit",
+            "rtatman/188-million-us-wildfires",
+            "zynicide/wine-reviews"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "05-exercise-data-types-and-missing-values.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Data Types and Missing Values",
+          "lesson": "Data Types And Missing Values",
+          "original": "https://www.kaggle.com/residentmario/exercise-data-types-and-missing-values",
+          "datasets": [
+            "dansbecker/powerlifting-database",
+            "datasnaek/chess",
+            "datasnaek/youtube-new",
+            "jpmiller/publicassistance",
+            "nasa/kepler-exoplanet-search-results",
+            "nolanbconaway/pitchfork-data",
+            "residentmario/ramen-ratings",
+            "residentmario/things-on-reddit",
+            "rtatman/188-million-us-wildfires",
+            "zynicide/wine-reviews"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "06-tutorial-renaming-and-combining.ipynb",
+          "type": "tutorial",
+          "title": "Renaming and Combining",
+          "lesson": "Renaming and Combining",
+          "original": "https://www.kaggle.com/residentmario/renaming-and-combining",
+          "datasets": [
+            "dansbecker/powerlifting-database",
+            "datasnaek/chess",
+            "datasnaek/youtube-new",
+            "jpmiller/publicassistance",
+            "nasa/kepler-exoplanet-search-results",
+            "nolanbconaway/pitchfork-data",
+            "residentmario/ramen-ratings",
+            "residentmario/things-on-reddit",
+            "rtatman/188-million-us-wildfires",
+            "zynicide/wine-reviews"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "06-exercise-renaming-and-combining.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Renaming and Combining",
+          "lesson": "Renaming and Combining",
+          "original": "https://www.kaggle.com/residentmario/exercise-renaming-and-combining",
+          "datasets": [
+            "dansbecker/powerlifting-database",
+            "datasnaek/chess",
+            "datasnaek/youtube-new",
+            "jpmiller/publicassistance",
+            "nasa/kepler-exoplanet-search-results",
+            "nolanbconaway/pitchfork-data",
+            "residentmario/ramen-ratings",
+            "residentmario/things-on-reddit",
+            "rtatman/188-million-us-wildfires",
+            "zynicide/wine-reviews"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        }
+      ]
+    },
+    {
+      "dir": "05-intermediate-machine-learning",
+      "upstream_track": "ml_intermediate",
+      "name": "Intermediate Machine Learning",
+      "url": "https://www.kaggle.com/learn/intermediate-machine-learning",
+      "legacy": false,
+      "datasets": [
+        "dansbecker/aer-credit-card-data",
+        "dansbecker/melbourne-housing-snapshot"
+      ],
+      "competitions": [
+        "home-data-for-ml-course"
+      ],
+      "kernels": [],
+      "notebooks": [
+        {
+          "file": "01-tutorial-introduction.ipynb",
+          "type": "tutorial",
+          "title": "Introduction",
+          "lesson": "Introduction",
+          "original": "https://www.kaggle.com/alexisbcook/introduction",
+          "datasets": [
+            "dansbecker/aer-credit-card-data",
+            "dansbecker/melbourne-housing-snapshot"
+          ],
+          "competitions": [
+            "home-data-for-ml-course"
+          ],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "01-exercise-introduction.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Introduction",
+          "lesson": "Introduction",
+          "original": "https://www.kaggle.com/alexisbcook/exercise-introduction",
+          "datasets": [],
+          "competitions": [
+            "home-data-for-ml-course"
+          ],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "02-tutorial-missing-values.ipynb",
+          "type": "tutorial",
+          "title": "Missing Values",
+          "lesson": "Missing Values",
+          "original": "https://www.kaggle.com/alexisbcook/missing-values",
+          "datasets": [
+            "dansbecker/aer-credit-card-data",
+            "dansbecker/melbourne-housing-snapshot"
+          ],
+          "competitions": [
+            "home-data-for-ml-course"
+          ],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "02-exercise-missing-values.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Missing Values",
+          "lesson": "Missing Values",
+          "original": "https://www.kaggle.com/alexisbcook/exercise-missing-values",
+          "datasets": [],
+          "competitions": [
+            "home-data-for-ml-course"
+          ],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "03-tutorial-categorical-variables.ipynb",
+          "type": "tutorial",
+          "title": "Categorical Variables",
+          "lesson": "Categorical Variables",
+          "original": "https://www.kaggle.com/alexisbcook/categorical-variables",
+          "datasets": [
+            "dansbecker/aer-credit-card-data",
+            "dansbecker/melbourne-housing-snapshot"
+          ],
+          "competitions": [
+            "home-data-for-ml-course"
+          ],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "03-exercise-categorical-variables.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Categorical Variables",
+          "lesson": "Categorical Variables",
+          "original": "https://www.kaggle.com/alexisbcook/exercise-categorical-variables",
+          "datasets": [],
+          "competitions": [
+            "home-data-for-ml-course"
+          ],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "04-tutorial-pipelines.ipynb",
+          "type": "tutorial",
+          "title": "Pipelines",
+          "lesson": "Pipelines",
+          "original": "https://www.kaggle.com/alexisbcook/pipelines",
+          "datasets": [
+            "dansbecker/aer-credit-card-data",
+            "dansbecker/melbourne-housing-snapshot"
+          ],
+          "competitions": [
+            "home-data-for-ml-course"
+          ],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "04-exercise-pipelines.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Pipelines",
+          "lesson": "Pipelines",
+          "original": "https://www.kaggle.com/alexisbcook/exercise-pipelines",
+          "datasets": [],
+          "competitions": [
+            "home-data-for-ml-course"
+          ],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "05-tutorial-cross-validation.ipynb",
+          "type": "tutorial",
+          "title": "Cross-Validation",
+          "lesson": "Cross-Validation",
+          "original": "https://www.kaggle.com/alexisbcook/cross-validation",
+          "datasets": [
+            "dansbecker/aer-credit-card-data",
+            "dansbecker/melbourne-housing-snapshot"
+          ],
+          "competitions": [
+            "home-data-for-ml-course"
+          ],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "05-exercise-cross-validation.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Cross-Validation",
+          "lesson": "Cross-Validation",
+          "original": "https://www.kaggle.com/alexisbcook/exercise-cross-validation",
+          "datasets": [],
+          "competitions": [
+            "home-data-for-ml-course"
+          ],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "06-tutorial-xgboost.ipynb",
+          "type": "tutorial",
+          "title": "XGBoost",
+          "lesson": "XGBoost",
+          "original": "https://www.kaggle.com/alexisbcook/xgboost",
+          "datasets": [
+            "dansbecker/aer-credit-card-data",
+            "dansbecker/melbourne-housing-snapshot"
+          ],
+          "competitions": [
+            "home-data-for-ml-course"
+          ],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "06-exercise-xgboost.ipynb",
+          "type": "exercise",
+          "title": "Exercise: XGBoost",
+          "lesson": "XGBoost",
+          "original": "https://www.kaggle.com/alexisbcook/exercise-xgboost",
+          "datasets": [],
+          "competitions": [
+            "home-data-for-ml-course"
+          ],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "07-tutorial-data-leakage.ipynb",
+          "type": "tutorial",
+          "title": "Data Leakage",
+          "lesson": "Data Leakage",
+          "original": "https://www.kaggle.com/alexisbcook/data-leakage",
+          "datasets": [
+            "dansbecker/aer-credit-card-data",
+            "dansbecker/melbourne-housing-snapshot"
+          ],
+          "competitions": [
+            "home-data-for-ml-course"
+          ],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "07-exercise-data-leakage.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Data Leakage",
+          "lesson": "Data Leakage",
+          "original": "https://www.kaggle.com/alexisbcook/exercise-data-leakage",
+          "datasets": [],
+          "competitions": [
+            "home-data-for-ml-course"
+          ],
+          "kernels": [],
+          "gpu": false
+        }
+      ]
+    },
+    {
+      "dir": "06-data-visualization",
+      "upstream_track": "data_viz_to_coder",
+      "name": "Data Visualization",
+      "url": "https://www.kaggle.com/learn/data-visualization",
+      "legacy": false,
+      "datasets": [
+        "alexisbcook/data-for-datavis"
+      ],
+      "competitions": [],
+      "kernels": [],
+      "notebooks": [
+        {
+          "file": "01-tutorial-hello-seaborn.ipynb",
+          "type": "tutorial",
+          "title": "Hello, Seaborn",
+          "lesson": "Hello, Seaborn",
+          "original": "https://www.kaggle.com/alexisbcook/hello-seaborn",
+          "datasets": [
+            "alexisbcook/data-for-datavis"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "01-exercise-hello-seaborn.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Hello, Seaborn",
+          "lesson": "Hello, Seaborn",
+          "original": "https://www.kaggle.com/alexisbcook/exercise-hello-seaborn",
+          "datasets": [
+            "alexisbcook/data-for-datavis"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "02-tutorial-line-charts.ipynb",
+          "type": "tutorial",
+          "title": "Line Charts",
+          "lesson": "Line Charts",
+          "original": "https://www.kaggle.com/alexisbcook/line-charts",
+          "datasets": [
+            "alexisbcook/data-for-datavis"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "02-exercise-line-charts.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Line Charts",
+          "lesson": "Line Charts",
+          "original": "https://www.kaggle.com/alexisbcook/exercise-line-charts",
+          "datasets": [
+            "alexisbcook/data-for-datavis"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "03-tutorial-bar-charts-and-heatmaps.ipynb",
+          "type": "tutorial",
+          "title": "Bar Charts and Heatmaps",
+          "lesson": "Bar Charts and Heatmaps",
+          "original": "https://www.kaggle.com/alexisbcook/bar-charts-and-heatmaps",
+          "datasets": [
+            "alexisbcook/data-for-datavis"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "03-exercise-bar-charts-and-heatmaps.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Bar Charts and Heatmaps",
+          "lesson": "Bar Charts and Heatmaps",
+          "original": "https://www.kaggle.com/alexisbcook/exercise-bar-charts-and-heatmaps",
+          "datasets": [
+            "alexisbcook/data-for-datavis"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "04-tutorial-scatter-plots.ipynb",
+          "type": "tutorial",
+          "title": "Scatter Plots",
+          "lesson": "Scatter Plots",
+          "original": "https://www.kaggle.com/alexisbcook/scatter-plots",
+          "datasets": [
+            "alexisbcook/data-for-datavis"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "04-exercise-scatter-plots.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Scatter Plots",
+          "lesson": "Scatter Plots",
+          "original": "https://www.kaggle.com/alexisbcook/exercise-scatter-plots",
+          "datasets": [
+            "alexisbcook/data-for-datavis"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "05-tutorial-distributions.ipynb",
+          "type": "tutorial",
+          "title": "Distributions",
+          "lesson": "Distributions",
+          "original": "https://www.kaggle.com/alexisbcook/distributions",
+          "datasets": [
+            "alexisbcook/data-for-datavis"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "05-exercise-distributions.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Distributions",
+          "lesson": "Distributions",
+          "original": "https://www.kaggle.com/alexisbcook/exercise-distributions",
+          "datasets": [
+            "alexisbcook/data-for-datavis"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "06-tutorial-choosing-plot-types-and-custom-styles.ipynb",
+          "type": "tutorial",
+          "title": "Choosing Plot Types and Custom Styles",
+          "lesson": "Choosing Plot Types and Custom Styles",
+          "original": "https://www.kaggle.com/alexisbcook/choosing-plot-types-and-custom-styles",
+          "datasets": [
+            "alexisbcook/data-for-datavis"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "06-exercise-choosing-plot-types-and-custom-styles.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Choosing Plot Types and Custom Styles",
+          "lesson": "Choosing Plot Types and Custom Styles",
+          "original": "https://www.kaggle.com/alexisbcook/exercise-choosing-plot-types-and-custom-styles",
+          "datasets": [
+            "alexisbcook/data-for-datavis"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "07-tutorial-final-project.ipynb",
+          "type": "tutorial",
+          "title": "Final Project",
+          "lesson": "Final Project",
+          "original": "https://www.kaggle.com/alexisbcook/final-project",
+          "datasets": [
+            "alexisbcook/data-for-datavis"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "07-exercise-final-project.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Final Project",
+          "lesson": "Final Project",
+          "original": "https://www.kaggle.com/alexisbcook/exercise-final-project",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "08-tutorial-creating-your-own-notebooks.ipynb",
+          "type": "tutorial",
+          "title": "Creating Your Own Notebooks",
+          "lesson": "Creating Your Own Notebooks",
+          "original": "https://www.kaggle.com/alexisbcook/creating-your-own-notebooks",
+          "datasets": [
+            "alexisbcook/data-for-datavis"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        }
+      ]
+    },
+    {
+      "dir": "07-feature-engineering",
+      "upstream_track": "feature_engineering_new",
+      "name": "Feature Engineering",
+      "url": "https://www.kaggle.com/learn/feature-engineering",
+      "legacy": false,
+      "datasets": [
+        "ryanholbrook/fe-course-data"
+      ],
+      "competitions": [
+        "house-prices-advanced-regression-techniques"
+      ],
+      "kernels": [],
+      "notebooks": [
+        {
+          "file": "01-tutorial-what-is-feature-engineering.ipynb",
+          "type": "tutorial",
+          "title": "What Is Feature Engineering",
+          "lesson": "What is Feature Engineering",
+          "original": "https://www.kaggle.com/ryanholbrook/what-is-feature-engineering",
+          "datasets": [
+            "ryanholbrook/fe-course-data"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "02-tutorial-mutual-information.ipynb",
+          "type": "tutorial",
+          "title": "Mutual Information",
+          "lesson": "Mutual Information",
+          "original": "https://www.kaggle.com/ryanholbrook/mutual-information",
+          "datasets": [
+            "ryanholbrook/fe-course-data"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "02-exercise-mutual-information.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Mutual Information",
+          "lesson": "Mutual Information",
+          "original": "https://www.kaggle.com/ryanholbrook/exercise-mutual-information",
+          "datasets": [
+            "ryanholbrook/fe-course-data"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "03-tutorial-creating-features.ipynb",
+          "type": "tutorial",
+          "title": "Creating Features",
+          "lesson": "Creating Features",
+          "original": "https://www.kaggle.com/ryanholbrook/creating-features",
+          "datasets": [
+            "ryanholbrook/fe-course-data"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "03-exercise-creating-features.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Creating Features",
+          "lesson": "Creating Features",
+          "original": "https://www.kaggle.com/ryanholbrook/exercise-creating-features",
+          "datasets": [
+            "ryanholbrook/fe-course-data"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "04-tutorial-clustering-with-k-means.ipynb",
+          "type": "tutorial",
+          "title": "Clustering with k-Means",
+          "lesson": "Clustering with k-Means",
+          "original": "https://www.kaggle.com/ryanholbrook/clustering-with-k-means",
+          "datasets": [
+            "ryanholbrook/fe-course-data"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "04-exercise-clustering-with-k-means.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Clustering with k-Means",
+          "lesson": "Clustering with k-Means",
+          "original": "https://www.kaggle.com/ryanholbrook/exercise-clustering-with-k-means",
+          "datasets": [
+            "ryanholbrook/fe-course-data"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "05-tutorial-principal-component-analysis.ipynb",
+          "type": "tutorial",
+          "title": "Principal Component Analysis",
+          "lesson": "Principal Component Analysis",
+          "original": "https://www.kaggle.com/ryanholbrook/principal-component-analysis",
+          "datasets": [
+            "ryanholbrook/fe-course-data"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "05-exercise-principal-component-analysis.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Principal Component Analysis",
+          "lesson": "Principal Component Analysis",
+          "original": "https://www.kaggle.com/ryanholbrook/exercise-principal-component-analysis",
+          "datasets": [
+            "ryanholbrook/fe-course-data"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "06-tutorial-target-encoding.ipynb",
+          "type": "tutorial",
+          "title": "Target Encoding",
+          "lesson": "Target Encoding",
+          "original": "https://www.kaggle.com/ryanholbrook/target-encoding",
+          "datasets": [
+            "ryanholbrook/fe-course-data"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "06-exercise-target-encoding.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Target Encoding",
+          "lesson": "Target Encoding",
+          "original": "https://www.kaggle.com/ryanholbrook/exercise-target-encoding",
+          "datasets": [
+            "ryanholbrook/fe-course-data"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "07-tutorial-feature-engineering-for-house-prices.ipynb",
+          "type": "tutorial",
+          "title": "Feature Engineering for House Prices",
+          "lesson": "Feature Engineering for House Prices",
+          "original": "https://www.kaggle.com/ryanholbrook/feature-engineering-for-house-prices",
+          "datasets": [],
+          "competitions": [
+            "house-prices-advanced-regression-techniques"
+          ],
+          "kernels": [],
+          "gpu": false
+        }
+      ]
+    },
+    {
+      "dir": "08-intro-to-sql",
+      "upstream_track": "sql",
+      "name": "SQL",
+      "url": "https://www.kaggle.com/learn/intro-to-sql",
+      "legacy": false,
+      "datasets": [],
+      "competitions": [],
+      "kernels": [],
+      "notebooks": [
+        {
+          "file": "01-tutorial-getting-started-with-sql-and-bigquery.ipynb",
+          "type": "tutorial",
+          "title": "Getting Started with SQL and BigQuery",
+          "lesson": "Getting Started with SQL and BigQuery",
+          "original": "https://www.kaggle.com/dansbecker/getting-started-with-sql-and-bigquery",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "01-exercise-getting-started-with-sql-and-bigquery.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Getting Started with SQL and BigQuery",
+          "lesson": "Getting Started with SQL and BigQuery",
+          "original": "https://www.kaggle.com/dansbecker/exercise-getting-started-with-sql-and-bigquery",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "02-tutorial-select-from-where.ipynb",
+          "type": "tutorial",
+          "title": "Select, From & Where",
+          "lesson": "Select, From & Where",
+          "original": "https://www.kaggle.com/dansbecker/select-from-where",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "02-exercise-select-from-where.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Select, From & Where",
+          "lesson": "Select, From & Where",
+          "original": "https://www.kaggle.com/dansbecker/exercise-select-from-where",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "03-tutorial-group-by-having-count.ipynb",
+          "type": "tutorial",
+          "title": "Group By, Having & Count",
+          "lesson": "Group By, Having & Count",
+          "original": "https://www.kaggle.com/dansbecker/group-by-having-count",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "03-exercise-group-by-having-count.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Group By, Having & Count",
+          "lesson": "Group By, Having & Count",
+          "original": "https://www.kaggle.com/dansbecker/exercise-group-by-having-count",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "04-tutorial-order-by.ipynb",
+          "type": "tutorial",
+          "title": "Order by",
+          "lesson": "Order By",
+          "original": "https://www.kaggle.com/dansbecker/order-by",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "04-exercise-order-by.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Order by",
+          "lesson": "Order By",
+          "original": "https://www.kaggle.com/dansbecker/exercise-order-by",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "05-tutorial-as-with.ipynb",
+          "type": "tutorial",
+          "title": "As & with",
+          "lesson": "As & With",
+          "original": "https://www.kaggle.com/dansbecker/as-with",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "05-exercise-as-with.ipynb",
+          "type": "exercise",
+          "title": "Exercise: As & with",
+          "lesson": "As & With",
+          "original": "https://www.kaggle.com/dansbecker/exercise-as-with",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "06-tutorial-joining-data.ipynb",
+          "type": "tutorial",
+          "title": "Joining Data",
+          "lesson": "Joining Data",
+          "original": "https://www.kaggle.com/dansbecker/joining-data",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "06-exercise-joining-data.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Joining Data",
+          "lesson": "Joining Data",
+          "original": "https://www.kaggle.com/dansbecker/exercise-joining-data",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        }
+      ]
+    },
+    {
+      "dir": "09-advanced-sql",
+      "upstream_track": "sql_advanced",
+      "name": "Advanced SQL",
+      "url": "https://www.kaggle.com/learn/advanced-sql",
+      "legacy": false,
+      "datasets": [],
+      "competitions": [],
+      "kernels": [],
+      "notebooks": [
+        {
+          "file": "01-tutorial-joins-and-unions.ipynb",
+          "type": "tutorial",
+          "title": "JOINs and UNIONs",
+          "lesson": "JOINs and UNIONs",
+          "original": "https://www.kaggle.com/alexisbcook/joins-and-unions",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "01-exercise-joins-and-unions.ipynb",
+          "type": "exercise",
+          "title": "Exercise: JOINs and UNIONs",
+          "lesson": "JOINs and UNIONs",
+          "original": "https://www.kaggle.com/alexisbcook/exercise-joins-and-unions",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "02-tutorial-analytic-functions.ipynb",
+          "type": "tutorial",
+          "title": "Analytic Functions",
+          "lesson": "Analytic Functions",
+          "original": "https://www.kaggle.com/alexisbcook/analytic-functions",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "02-exercise-analytic-functions.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Analytic Functions",
+          "lesson": "Analytic Functions",
+          "original": "https://www.kaggle.com/alexisbcook/exercise-analytic-functions",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "03-tutorial-nested-and-repeated-data.ipynb",
+          "type": "tutorial",
+          "title": "Nested and Repeated Data",
+          "lesson": "Nested and Repeated Data",
+          "original": "https://www.kaggle.com/alexisbcook/nested-and-repeated-data",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "03-exercise-nested-and-repeated-data.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Nested and Repeated Data",
+          "lesson": "Nested and Repeated Data",
+          "original": "https://www.kaggle.com/alexisbcook/exercise-nested-and-repeated-data",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "04-tutorial-writing-efficient-queries.ipynb",
+          "type": "tutorial",
+          "title": "Writing Efficient Queries",
+          "lesson": "Writing Efficient Queries",
+          "original": "https://www.kaggle.com/alexisbcook/writing-efficient-queries",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "04-exercise-writing-efficient-queries.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Writing Efficient Queries",
+          "lesson": "Writing Efficient Queries",
+          "original": "https://www.kaggle.com/alexisbcook/exercise-writing-efficient-queries",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        }
+      ]
+    },
+    {
+      "dir": "10-intro-to-deep-learning",
+      "upstream_track": "deep_learning_intro",
+      "name": "Intro to Deep Learning",
+      "url": "https://www.kaggle.com/learn/intro-to-deep-learning",
+      "legacy": false,
+      "datasets": [
+        "ryanholbrook/dl-course-data",
+        "ryanholbrook/higgs-boson"
+      ],
+      "competitions": [],
+      "kernels": [],
+      "notebooks": [
+        {
+          "file": "01-tutorial-a-single-neuron.ipynb",
+          "type": "tutorial",
+          "title": "A Single Neuron",
+          "lesson": "A Single Neuron",
+          "original": "https://www.kaggle.com/ryanholbrook/a-single-neuron",
+          "datasets": [
+            "ryanholbrook/dl-course-data"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "01-exercise-a-single-neuron.ipynb",
+          "type": "exercise",
+          "title": "Exercise: A Single Neuron",
+          "lesson": "A Single Neuron",
+          "original": "https://www.kaggle.com/ryanholbrook/exercise-a-single-neuron",
+          "datasets": [
+            "ryanholbrook/dl-course-data"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "02-tutorial-deep-neural-networks.ipynb",
+          "type": "tutorial",
+          "title": "Deep Neural Networks",
+          "lesson": "Deep Neural Networks",
+          "original": "https://www.kaggle.com/ryanholbrook/deep-neural-networks",
+          "datasets": [
+            "ryanholbrook/dl-course-data"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "02-exercise-deep-neural-networks.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Deep Neural Networks",
+          "lesson": "Deep Neural Networks",
+          "original": "https://www.kaggle.com/ryanholbrook/exercise-deep-neural-networks",
+          "datasets": [
+            "ryanholbrook/dl-course-data"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "03-tutorial-stochastic-gradient-descent.ipynb",
+          "type": "tutorial",
+          "title": "Stochastic Gradient Descent",
+          "lesson": "Stochastic Gradient Descent",
+          "original": "https://www.kaggle.com/ryanholbrook/stochastic-gradient-descent",
+          "datasets": [
+            "ryanholbrook/dl-course-data"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "03-exercise-stochastic-gradient-descent.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Stochastic Gradient Descent",
+          "lesson": "Stochastic Gradient Descent",
+          "original": "https://www.kaggle.com/ryanholbrook/exercise-stochastic-gradient-descent",
+          "datasets": [
+            "ryanholbrook/dl-course-data"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": true
+        },
+        {
+          "file": "04-tutorial-overfitting-and-underfitting.ipynb",
+          "type": "tutorial",
+          "title": "Overfitting and Underfitting",
+          "lesson": "Overfitting and Underfitting",
+          "original": "https://www.kaggle.com/ryanholbrook/overfitting-and-underfitting",
+          "datasets": [
+            "ryanholbrook/dl-course-data"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "04-exercise-overfitting-and-underfitting.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Overfitting and Underfitting",
+          "lesson": "Overfitting and Underfitting",
+          "original": "https://www.kaggle.com/ryanholbrook/exercise-overfitting-and-underfitting",
+          "datasets": [
+            "ryanholbrook/dl-course-data"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": true
+        },
+        {
+          "file": "05-tutorial-dropout-and-batch-normalization.ipynb",
+          "type": "tutorial",
+          "title": "Dropout and Batch Normalization",
+          "lesson": "Dropout and Batch Normalization",
+          "original": "https://www.kaggle.com/ryanholbrook/dropout-and-batch-normalization",
+          "datasets": [
+            "ryanholbrook/dl-course-data"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "05-exercise-dropout-and-batch-normalization.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Dropout and Batch Normalization",
+          "lesson": "Dropout and Batch Normalization",
+          "original": "https://www.kaggle.com/ryanholbrook/exercise-dropout-and-batch-normalization",
+          "datasets": [
+            "ryanholbrook/dl-course-data"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": true
+        },
+        {
+          "file": "06-tutorial-binary-classification.ipynb",
+          "type": "tutorial",
+          "title": "Binary Classification",
+          "lesson": "Binary Classification",
+          "original": "https://www.kaggle.com/ryanholbrook/binary-classification",
+          "datasets": [
+            "ryanholbrook/dl-course-data"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "06-exercise-binary-classification.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Binary Classification",
+          "lesson": "Binary Classification",
+          "original": "https://www.kaggle.com/ryanholbrook/exercise-binary-classification",
+          "datasets": [
+            "ryanholbrook/dl-course-data"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": true
+        },
+        {
+          "file": "07-tutorial-detecting-the-higgs-boson-with-tpus.ipynb",
+          "type": "tutorial",
+          "title": "Detecting the Higgs Boson with TPUs",
+          "lesson": "Detecting the Higgs Boson with TPUs",
+          "original": "https://www.kaggle.com/ryanholbrook/detecting-the-higgs-boson-with-tpus",
+          "datasets": [
+            "ryanholbrook/higgs-boson"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        }
+      ]
+    },
+    {
+      "dir": "11-computer-vision",
+      "upstream_track": "computer_vision",
+      "name": "Computer Vision",
+      "url": "https://www.kaggle.com/learn/computer-vision",
+      "legacy": false,
+      "datasets": [
+        "ryanholbrook/car-or-truck",
+        "ryanholbrook/computer-vision-resources",
+        "ryanholbrook/cv-course-models",
+        "ryanholbrook/eurosat",
+        "ryanholbrook/tensorflow-flowers"
+      ],
+      "competitions": [],
+      "kernels": [],
+      "notebooks": [
+        {
+          "file": "01-tutorial-the-convolutional-classifier.ipynb",
+          "type": "tutorial",
+          "title": "The Convolutional Classifier",
+          "lesson": "The Convolutional Classifier",
+          "original": "https://www.kaggle.com/ryanholbrook/the-convolutional-classifier",
+          "datasets": [
+            "ryanholbrook/car-or-truck",
+            "ryanholbrook/computer-vision-resources",
+            "ryanholbrook/cv-course-models"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": true
+        },
+        {
+          "file": "01-exercise-the-convolutional-classifier.ipynb",
+          "type": "exercise",
+          "title": "Exercise: The Convolutional Classifier",
+          "lesson": "The Convolutional Classifier",
+          "original": "https://www.kaggle.com/ryanholbrook/exercise-the-convolutional-classifier",
+          "datasets": [
+            "ryanholbrook/car-or-truck",
+            "ryanholbrook/computer-vision-resources",
+            "ryanholbrook/cv-course-models"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": true
+        },
+        {
+          "file": "02-tutorial-convolution-and-relu.ipynb",
+          "type": "tutorial",
+          "title": "Convolution and ReLU",
+          "lesson": "Convolution and ReLU",
+          "original": "https://www.kaggle.com/ryanholbrook/convolution-and-relu",
+          "datasets": [
+            "ryanholbrook/car-or-truck",
+            "ryanholbrook/computer-vision-resources",
+            "ryanholbrook/cv-course-models"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "02-exercise-convolution-and-relu.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Convolution and ReLU",
+          "lesson": "Convolution and ReLU",
+          "original": "https://www.kaggle.com/ryanholbrook/exercise-convolution-and-relu",
+          "datasets": [
+            "ryanholbrook/car-or-truck",
+            "ryanholbrook/computer-vision-resources",
+            "ryanholbrook/cv-course-models"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "03-tutorial-maximum-pooling.ipynb",
+          "type": "tutorial",
+          "title": "Maximum Pooling",
+          "lesson": "Maximum Pooling",
+          "original": "https://www.kaggle.com/ryanholbrook/maximum-pooling",
+          "datasets": [
+            "ryanholbrook/car-or-truck",
+            "ryanholbrook/computer-vision-resources",
+            "ryanholbrook/cv-course-models"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "03-exercise-maximum-pooling.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Maximum Pooling",
+          "lesson": "Maximum Pooling",
+          "original": "https://www.kaggle.com/ryanholbrook/exercise-maximum-pooling",
+          "datasets": [
+            "ryanholbrook/car-or-truck",
+            "ryanholbrook/computer-vision-resources",
+            "ryanholbrook/cv-course-models"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "04-tutorial-the-sliding-window.ipynb",
+          "type": "tutorial",
+          "title": "The Sliding Window",
+          "lesson": "The Sliding Window",
+          "original": "https://www.kaggle.com/ryanholbrook/the-sliding-window",
+          "datasets": [
+            "ryanholbrook/car-or-truck",
+            "ryanholbrook/computer-vision-resources",
+            "ryanholbrook/cv-course-models"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "04-exercise-the-sliding-window.ipynb",
+          "type": "exercise",
+          "title": "Exercise: The Sliding Window",
+          "lesson": "The Sliding Window",
+          "original": "https://www.kaggle.com/ryanholbrook/exercise-the-sliding-window",
+          "datasets": [
+            "ryanholbrook/car-or-truck",
+            "ryanholbrook/computer-vision-resources",
+            "ryanholbrook/cv-course-models"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "05-tutorial-custom-convnets.ipynb",
+          "type": "tutorial",
+          "title": "Custom Convnets",
+          "lesson": "Custom Convnets",
+          "original": "https://www.kaggle.com/ryanholbrook/custom-convnets",
+          "datasets": [
+            "ryanholbrook/car-or-truck",
+            "ryanholbrook/computer-vision-resources",
+            "ryanholbrook/cv-course-models"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": true
+        },
+        {
+          "file": "05-exercise-custom-convnets.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Custom Convnets",
+          "lesson": "Custom Convnets",
+          "original": "https://www.kaggle.com/ryanholbrook/exercise-custom-convnets",
+          "datasets": [
+            "ryanholbrook/car-or-truck",
+            "ryanholbrook/computer-vision-resources",
+            "ryanholbrook/cv-course-models"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": true
+        },
+        {
+          "file": "06-tutorial-data-augmentation.ipynb",
+          "type": "tutorial",
+          "title": "Data Augmentation",
+          "lesson": "Data Augmentation",
+          "original": "https://www.kaggle.com/ryanholbrook/data-augmentation",
+          "datasets": [
+            "ryanholbrook/car-or-truck",
+            "ryanholbrook/computer-vision-resources",
+            "ryanholbrook/cv-course-models",
+            "ryanholbrook/eurosat",
+            "ryanholbrook/tensorflow-flowers"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": true
+        },
+        {
+          "file": "06-exercise-data-augmentation.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Data Augmentation",
+          "lesson": "Data Augmentation",
+          "original": "https://www.kaggle.com/ryanholbrook/exercise-data-augmentation",
+          "datasets": [
+            "ryanholbrook/car-or-truck",
+            "ryanholbrook/computer-vision-resources",
+            "ryanholbrook/cv-course-models",
+            "ryanholbrook/eurosat",
+            "ryanholbrook/tensorflow-flowers"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": true
+        }
+      ]
+    },
+    {
+      "dir": "12-time-series",
+      "upstream_track": "time_series",
+      "name": "Time Series",
+      "url": "https://www.kaggle.com/learn/time-series",
+      "legacy": false,
+      "datasets": [
+        "ryanholbrook/ts-course-data"
+      ],
+      "competitions": [
+        "store-sales-time-series-forecasting"
+      ],
+      "kernels": [],
+      "notebooks": [
+        {
+          "file": "01-tutorial-linear-regression-with-time-series.ipynb",
+          "type": "tutorial",
+          "title": "Linear Regression with Time Series",
+          "lesson": "Linear Regression with Time Series",
+          "original": "https://www.kaggle.com/ryanholbrook/linear-regression-with-time-series",
+          "datasets": [
+            "ryanholbrook/ts-course-data"
+          ],
+          "competitions": [
+            "store-sales-time-series-forecasting"
+          ],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "01-exercise-linear-regression-with-time-series.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Linear Regression with Time Series",
+          "lesson": "Linear Regression with Time Series",
+          "original": "https://www.kaggle.com/ryanholbrook/exercise-linear-regression-with-time-series",
+          "datasets": [
+            "ryanholbrook/ts-course-data"
+          ],
+          "competitions": [
+            "store-sales-time-series-forecasting"
+          ],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "02-tutorial-trend.ipynb",
+          "type": "tutorial",
+          "title": "Trend",
+          "lesson": "Trend",
+          "original": "https://www.kaggle.com/ryanholbrook/trend",
+          "datasets": [
+            "ryanholbrook/ts-course-data"
+          ],
+          "competitions": [
+            "store-sales-time-series-forecasting"
+          ],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "02-exercise-trend.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Trend",
+          "lesson": "Trend",
+          "original": "https://www.kaggle.com/ryanholbrook/exercise-trend",
+          "datasets": [
+            "ryanholbrook/ts-course-data"
+          ],
+          "competitions": [
+            "store-sales-time-series-forecasting"
+          ],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "03-tutorial-seasonality.ipynb",
+          "type": "tutorial",
+          "title": "Seasonality",
+          "lesson": "Seasonality",
+          "original": "https://www.kaggle.com/ryanholbrook/seasonality",
+          "datasets": [
+            "ryanholbrook/ts-course-data"
+          ],
+          "competitions": [
+            "store-sales-time-series-forecasting"
+          ],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "03-exercise-seasonality.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Seasonality",
+          "lesson": "Seasonality",
+          "original": "https://www.kaggle.com/ryanholbrook/exercise-seasonality",
+          "datasets": [
+            "ryanholbrook/ts-course-data"
+          ],
+          "competitions": [
+            "store-sales-time-series-forecasting"
+          ],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "04-tutorial-time-series-as-features.ipynb",
+          "type": "tutorial",
+          "title": "Time Series as Features",
+          "lesson": "Time Series as Features",
+          "original": "https://www.kaggle.com/ryanholbrook/time-series-as-features",
+          "datasets": [
+            "ryanholbrook/ts-course-data"
+          ],
+          "competitions": [
+            "store-sales-time-series-forecasting"
+          ],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "04-exercise-time-series-as-features.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Time Series as Features",
+          "lesson": "Time Series as Features",
+          "original": "https://www.kaggle.com/ryanholbrook/exercise-time-series-as-features",
+          "datasets": [
+            "ryanholbrook/ts-course-data"
+          ],
+          "competitions": [
+            "store-sales-time-series-forecasting"
+          ],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "05-tutorial-hybrid-models.ipynb",
+          "type": "tutorial",
+          "title": "Hybrid Models",
+          "lesson": "Hybrid Models",
+          "original": "https://www.kaggle.com/ryanholbrook/hybrid-models",
+          "datasets": [
+            "ryanholbrook/ts-course-data"
+          ],
+          "competitions": [
+            "store-sales-time-series-forecasting"
+          ],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "05-exercise-hybrid-models.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Hybrid Models",
+          "lesson": "Hybrid Models",
+          "original": "https://www.kaggle.com/ryanholbrook/exercise-hybrid-models",
+          "datasets": [
+            "ryanholbrook/ts-course-data"
+          ],
+          "competitions": [
+            "store-sales-time-series-forecasting"
+          ],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "06-tutorial-forecasting-with-machine-learning.ipynb",
+          "type": "tutorial",
+          "title": "Forecasting with Machine Learning",
+          "lesson": "Forecasting with Machine Learning",
+          "original": "https://www.kaggle.com/ryanholbrook/forecasting-with-machine-learning",
+          "datasets": [
+            "ryanholbrook/ts-course-data"
+          ],
+          "competitions": [
+            "store-sales-time-series-forecasting"
+          ],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "06-exercise-forecasting-with-machine-learning.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Forecasting with Machine Learning",
+          "lesson": "Forecasting with Machine Learning",
+          "original": "https://www.kaggle.com/ryanholbrook/exercise-forecasting-with-machine-learning",
+          "datasets": [
+            "ryanholbrook/ts-course-data"
+          ],
+          "competitions": [
+            "store-sales-time-series-forecasting"
+          ],
+          "kernels": [],
+          "gpu": false
+        }
+      ]
+    },
+    {
+      "dir": "13-geospatial-analysis",
+      "upstream_track": "geospatial",
+      "name": "Geospatial Analysis",
+      "url": "https://www.kaggle.com/learn/geospatial-analysis",
+      "legacy": false,
+      "datasets": [
+        "alexisbcook/data-for-datavis",
+        "alexisbcook/geospatial-learn-course-data"
+      ],
+      "competitions": [],
+      "kernels": [],
+      "notebooks": [
+        {
+          "file": "01-tutorial-your-first-map.ipynb",
+          "type": "tutorial",
+          "title": "Your First Map",
+          "lesson": "Your First Map",
+          "original": "https://www.kaggle.com/alexisbcook/your-first-map",
+          "datasets": [
+            "alexisbcook/data-for-datavis",
+            "alexisbcook/geospatial-learn-course-data"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "01-exercise-your-first-map.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Your First Map",
+          "lesson": "Your First Map",
+          "original": "https://www.kaggle.com/alexisbcook/exercise-your-first-map",
+          "datasets": [
+            "alexisbcook/data-for-datavis",
+            "alexisbcook/geospatial-learn-course-data"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "02-tutorial-coordinate-reference-systems.ipynb",
+          "type": "tutorial",
+          "title": "Coordinate Reference Systems",
+          "lesson": "Coordinate Reference Systems",
+          "original": "https://www.kaggle.com/alexisbcook/coordinate-reference-systems",
+          "datasets": [
+            "alexisbcook/data-for-datavis",
+            "alexisbcook/geospatial-learn-course-data"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "02-exercise-coordinate-reference-systems.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Coordinate Reference Systems",
+          "lesson": "Coordinate Reference Systems",
+          "original": "https://www.kaggle.com/alexisbcook/exercise-coordinate-reference-systems",
+          "datasets": [
+            "alexisbcook/data-for-datavis",
+            "alexisbcook/geospatial-learn-course-data"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "03-tutorial-interactive-maps.ipynb",
+          "type": "tutorial",
+          "title": "Interactive Maps",
+          "lesson": "Interactive Maps",
+          "original": "https://www.kaggle.com/alexisbcook/interactive-maps",
+          "datasets": [
+            "alexisbcook/data-for-datavis",
+            "alexisbcook/geospatial-learn-course-data"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "03-exercise-interactive-maps.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Interactive Maps",
+          "lesson": "Interactive Maps",
+          "original": "https://www.kaggle.com/alexisbcook/exercise-interactive-maps",
+          "datasets": [
+            "alexisbcook/data-for-datavis",
+            "alexisbcook/geospatial-learn-course-data"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "04-tutorial-manipulating-geospatial-data.ipynb",
+          "type": "tutorial",
+          "title": "Manipulating Geospatial Data",
+          "lesson": "Manipulating Geospatial Data",
+          "original": "https://www.kaggle.com/alexisbcook/manipulating-geospatial-data",
+          "datasets": [
+            "alexisbcook/data-for-datavis",
+            "alexisbcook/geospatial-learn-course-data"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "04-exercise-manipulating-geospatial-data.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Manipulating Geospatial Data",
+          "lesson": "Manipulating Geospatial Data",
+          "original": "https://www.kaggle.com/alexisbcook/exercise-manipulating-geospatial-data",
+          "datasets": [
+            "alexisbcook/data-for-datavis",
+            "alexisbcook/geospatial-learn-course-data"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "05-tutorial-proximity-analysis.ipynb",
+          "type": "tutorial",
+          "title": "Proximity Analysis",
+          "lesson": "Proximity Analysis",
+          "original": "https://www.kaggle.com/alexisbcook/proximity-analysis",
+          "datasets": [
+            "alexisbcook/data-for-datavis",
+            "alexisbcook/geospatial-learn-course-data"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "05-exercise-proximity-analysis.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Proximity Analysis",
+          "lesson": "Proximity Analysis",
+          "original": "https://www.kaggle.com/alexisbcook/exercise-proximity-analysis",
+          "datasets": [
+            "alexisbcook/data-for-datavis",
+            "alexisbcook/geospatial-learn-course-data"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        }
+      ]
+    },
+    {
+      "dir": "14-machine-learning-explainability",
+      "upstream_track": "ml_explainability",
+      "name": "Machine Learning Explainability",
+      "url": "https://www.kaggle.com/learn/machine-learning-explainability",
+      "legacy": false,
+      "datasets": [
+        "dansbecker/hospital-readmissions",
+        "dansbecker/new-york-city-taxi-fare-prediction",
+        "mathan/fifa-2018-match-statistics"
+      ],
+      "competitions": [],
+      "kernels": [],
+      "notebooks": [
+        {
+          "file": "01-tutorial-use-cases-for-model-insights.ipynb",
+          "type": "tutorial",
+          "title": "Use Cases for Model Insights",
+          "lesson": "Use Cases for Model Insights",
+          "original": "https://www.kaggle.com/dansbecker/use-cases-for-model-insights",
+          "datasets": [
+            "dansbecker/hospital-readmissions",
+            "dansbecker/new-york-city-taxi-fare-prediction",
+            "mathan/fifa-2018-match-statistics"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "02-tutorial-permutation-importance.ipynb",
+          "type": "tutorial",
+          "title": "Permutation Importance",
+          "lesson": "Permutation Importance",
+          "original": "https://www.kaggle.com/dansbecker/permutation-importance",
+          "datasets": [
+            "dansbecker/hospital-readmissions",
+            "dansbecker/new-york-city-taxi-fare-prediction",
+            "mathan/fifa-2018-match-statistics"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "02-exercise-permutation-importance.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Permutation Importance",
+          "lesson": "Permutation Importance",
+          "original": "https://www.kaggle.com/dansbecker/exercise-permutation-importance",
+          "datasets": [
+            "dansbecker/hospital-readmissions",
+            "dansbecker/new-york-city-taxi-fare-prediction",
+            "mathan/fifa-2018-match-statistics"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "03-tutorial-partial-plots.ipynb",
+          "type": "tutorial",
+          "title": "Partial Plots",
+          "lesson": "Partial Plots",
+          "original": "https://www.kaggle.com/dansbecker/partial-plots",
+          "datasets": [
+            "dansbecker/hospital-readmissions",
+            "dansbecker/new-york-city-taxi-fare-prediction",
+            "mathan/fifa-2018-match-statistics"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "03-exercise-partial-plots.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Partial Plots",
+          "lesson": "Partial Plots",
+          "original": "https://www.kaggle.com/dansbecker/exercise-partial-plots",
+          "datasets": [
+            "dansbecker/hospital-readmissions",
+            "dansbecker/new-york-city-taxi-fare-prediction",
+            "mathan/fifa-2018-match-statistics"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "04-tutorial-shap-values.ipynb",
+          "type": "tutorial",
+          "title": "SHAP Values",
+          "lesson": "SHAP Values",
+          "original": "https://www.kaggle.com/dansbecker/shap-values",
+          "datasets": [
+            "dansbecker/hospital-readmissions",
+            "dansbecker/new-york-city-taxi-fare-prediction",
+            "mathan/fifa-2018-match-statistics"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "04-exercise-shap-values.ipynb",
+          "type": "exercise",
+          "title": "Exercise: SHAP Values",
+          "lesson": "SHAP Values",
+          "original": "https://www.kaggle.com/dansbecker/exercise-shap-values",
+          "datasets": [
+            "dansbecker/hospital-readmissions",
+            "dansbecker/new-york-city-taxi-fare-prediction",
+            "mathan/fifa-2018-match-statistics"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "05-tutorial-advanced-uses-of-shap-values.ipynb",
+          "type": "tutorial",
+          "title": "Advanced Uses of SHAP Values",
+          "lesson": "Advanced Uses of SHAP Values",
+          "original": "https://www.kaggle.com/dansbecker/advanced-uses-of-shap-values",
+          "datasets": [
+            "dansbecker/hospital-readmissions",
+            "dansbecker/new-york-city-taxi-fare-prediction",
+            "mathan/fifa-2018-match-statistics"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "05-exercise-advanced-uses-of-shap-values.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Advanced Uses of SHAP Values",
+          "lesson": "Advanced Uses of SHAP Values",
+          "original": "https://www.kaggle.com/dansbecker/exercise-advanced-uses-of-shap-values",
+          "datasets": [
+            "dansbecker/hospital-readmissions",
+            "dansbecker/new-york-city-taxi-fare-prediction",
+            "mathan/fifa-2018-match-statistics"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        }
+      ]
+    },
+    {
+      "dir": "15-intro-to-ai-ethics",
+      "upstream_track": "ethics",
+      "name": "AI Ethics",
+      "url": "https://www.kaggle.com/learn/ai-ethics",
+      "legacy": false,
+      "datasets": [
+        "alexisbcook/jigsaw-snapshot",
+        "alexisbcook/synthetic-credit-card-approval"
+      ],
+      "competitions": [],
+      "kernels": [],
+      "notebooks": [
+        {
+          "file": "01-tutorial-introduction-to-ai-ethics.ipynb",
+          "type": "tutorial",
+          "title": "Introduction to AI Ethics",
+          "lesson": "Introduction to AI Ethics",
+          "original": "https://www.kaggle.com/var0101/introduction-to-ai-ethics",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "02-tutorial-human-centered-design-for-ai.ipynb",
+          "type": "tutorial",
+          "title": "Human-Centered Design for AI",
+          "lesson": "Human-Centered Design for AI",
+          "original": "https://www.kaggle.com/var0101/human-centered-design-for-ai",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "02-exercise-human-centered-design-for-ai.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Human-Centered Design for AI",
+          "lesson": "Human-Centered Design for AI",
+          "original": "https://www.kaggle.com/var0101/exercise-human-centered-design-for-ai",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "03-tutorial-identifying-bias-in-ai.ipynb",
+          "type": "tutorial",
+          "title": "Identifying Bias in AI",
+          "lesson": "Identifying Bias in AI",
+          "original": "https://www.kaggle.com/alexisbcook/identifying-bias-in-ai",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "03-exercise-identifying-bias-in-ai.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Identifying Bias in AI",
+          "lesson": "Identifying Bias in AI",
+          "original": "https://www.kaggle.com/alexisbcook/exercise-identifying-bias-in-ai",
+          "datasets": [
+            "alexisbcook/jigsaw-snapshot"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "04-tutorial-ai-fairness.ipynb",
+          "type": "tutorial",
+          "title": "AI Fairness",
+          "lesson": "AI Fairness",
+          "original": "https://www.kaggle.com/alexisbcook/ai-fairness",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "04-exercise-ai-fairness.ipynb",
+          "type": "exercise",
+          "title": "Exercise: AI Fairness",
+          "lesson": "AI Fairness",
+          "original": "https://www.kaggle.com/alexisbcook/exercise-ai-fairness",
+          "datasets": [
+            "alexisbcook/synthetic-credit-card-approval"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "05-tutorial-model-cards.ipynb",
+          "type": "tutorial",
+          "title": "Model Cards",
+          "lesson": "Model Cards",
+          "original": "https://www.kaggle.com/var0101/model-cards",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "05-exercise-model-cards.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Model Cards",
+          "lesson": "Model Cards",
+          "original": "https://www.kaggle.com/var0101/exercise-model-cards",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        }
+      ]
+    },
+    {
+      "dir": "16-data-cleaning",
+      "upstream_track": "data_cleaning",
+      "name": "Data Cleaning",
+      "url": "https://www.kaggle.com/learn/data-cleaning",
+      "legacy": false,
+      "datasets": [
+        "alexisbcook/pakistan-intellectual-capital",
+        "aparnashastry/building-permit-applications-data",
+        "kemical/kickstarter-projects",
+        "kwullum/fatal-police-shootings-in-the-us",
+        "maxhorowitz/nflplaybyplay2009to2016",
+        "nasa/landslide-events",
+        "smithsonian/volcanic-eruptions",
+        "usgs/earthquake-database"
+      ],
+      "competitions": [],
+      "kernels": [],
+      "notebooks": [
+        {
+          "file": "01-tutorial-handling-missing-values.ipynb",
+          "type": "tutorial",
+          "title": "Handling Missing Values",
+          "lesson": "Handling missing values",
+          "original": "https://www.kaggle.com/alexisbcook/handling-missing-values",
+          "datasets": [
+            "maxhorowitz/nflplaybyplay2009to2016"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "01-exercise-handling-missing-values.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Handling Missing Values",
+          "lesson": "Handling missing values",
+          "original": "https://www.kaggle.com/alexisbcook/exercise-handling-missing-values",
+          "datasets": [
+            "aparnashastry/building-permit-applications-data"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "02-tutorial-scaling-and-normalization.ipynb",
+          "type": "tutorial",
+          "title": "Scaling and Normalization",
+          "lesson": "Scaling and normalization",
+          "original": "https://www.kaggle.com/alexisbcook/scaling-and-normalization",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "02-exercise-scaling-and-normalization.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Scaling and Normalization",
+          "lesson": "Scaling and normalization",
+          "original": "https://www.kaggle.com/alexisbcook/exercise-scaling-and-normalization",
+          "datasets": [
+            "kemical/kickstarter-projects"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "03-tutorial-parsing-dates.ipynb",
+          "type": "tutorial",
+          "title": "Parsing Dates",
+          "lesson": "Parsing dates",
+          "original": "https://www.kaggle.com/alexisbcook/parsing-dates",
+          "datasets": [
+            "nasa/landslide-events"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "03-exercise-parsing-dates.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Parsing Dates",
+          "lesson": "Parsing dates",
+          "original": "https://www.kaggle.com/alexisbcook/exercise-parsing-dates",
+          "datasets": [
+            "smithsonian/volcanic-eruptions",
+            "usgs/earthquake-database"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "04-tutorial-character-encodings.ipynb",
+          "type": "tutorial",
+          "title": "Character Encodings",
+          "lesson": "Character encodings",
+          "original": "https://www.kaggle.com/alexisbcook/character-encodings",
+          "datasets": [
+            "kemical/kickstarter-projects"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "04-exercise-character-encodings.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Character Encodings",
+          "lesson": "Character encodings",
+          "original": "https://www.kaggle.com/alexisbcook/exercise-character-encodings",
+          "datasets": [
+            "kwullum/fatal-police-shootings-in-the-us"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "05-tutorial-inconsistent-data-entry.ipynb",
+          "type": "tutorial",
+          "title": "Inconsistent Data Entry",
+          "lesson": "Inconsistent data entry",
+          "original": "https://www.kaggle.com/alexisbcook/inconsistent-data-entry",
+          "datasets": [
+            "alexisbcook/pakistan-intellectual-capital"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "05-exercise-inconsistent-data-entry.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Inconsistent Data Entry",
+          "lesson": "Inconsistent data entry",
+          "original": "https://www.kaggle.com/alexisbcook/exercise-inconsistent-data-entry",
+          "datasets": [
+            "alexisbcook/pakistan-intellectual-capital"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        }
+      ]
+    },
+    {
+      "dir": "17-intro-to-game-ai-and-reinforcement-learning",
+      "upstream_track": "game_ai",
+      "name": "Intro to Game AI and Reinforcement Learning",
+      "url": "https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning",
+      "legacy": false,
+      "datasets": [],
+      "competitions": [
+        "connectx",
+        "halite"
+      ],
+      "kernels": [],
+      "notebooks": [
+        {
+          "file": "01-tutorial-play-the-game.ipynb",
+          "type": "tutorial",
+          "title": "Play the Game",
+          "lesson": "Play the Game",
+          "original": "https://www.kaggle.com/alexisbcook/play-the-game",
+          "datasets": [],
+          "competitions": [
+            "connectx"
+          ],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "01-exercise-play-the-game.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Play the Game",
+          "lesson": "Play the Game",
+          "original": "https://www.kaggle.com/alexisbcook/exercise-play-the-game",
+          "datasets": [],
+          "competitions": [
+            "connectx"
+          ],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "02-tutorial-one-step-lookahead.ipynb",
+          "type": "tutorial",
+          "title": "One-Step Lookahead",
+          "lesson": "One-Step Lookahead",
+          "original": "https://www.kaggle.com/alexisbcook/one-step-lookahead",
+          "datasets": [],
+          "competitions": [
+            "connectx"
+          ],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "02-exercise-one-step-lookahead.ipynb",
+          "type": "exercise",
+          "title": "Exercise: One-Step Lookahead",
+          "lesson": "One-Step Lookahead",
+          "original": "https://www.kaggle.com/alexisbcook/exercise-one-step-lookahead",
+          "datasets": [],
+          "competitions": [
+            "connectx"
+          ],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "03-tutorial-n-step-lookahead.ipynb",
+          "type": "tutorial",
+          "title": "N-Step Lookahead",
+          "lesson": "N-Step Lookahead",
+          "original": "https://www.kaggle.com/alexisbcook/n-step-lookahead",
+          "datasets": [],
+          "competitions": [
+            "connectx"
+          ],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "03-exercise-n-step-lookahead.ipynb",
+          "type": "exercise",
+          "title": "Exercise: N-Step Lookahead",
+          "lesson": "N-Step Lookahead",
+          "original": "https://www.kaggle.com/alexisbcook/exercise-n-step-lookahead",
+          "datasets": [],
+          "competitions": [
+            "connectx"
+          ],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "04-tutorial-deep-reinforcement-learning.ipynb",
+          "type": "tutorial",
+          "title": "Deep Reinforcement Learning",
+          "lesson": "Deep Reinforcement Learning",
+          "original": "https://www.kaggle.com/alexisbcook/deep-reinforcement-learning",
+          "datasets": [],
+          "competitions": [
+            "connectx"
+          ],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "04-exercise-deep-reinforcement-learning.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Deep Reinforcement Learning",
+          "lesson": "Deep Reinforcement Learning",
+          "original": "https://www.kaggle.com/alexisbcook/exercise-deep-reinforcement-learning",
+          "datasets": [],
+          "competitions": [
+            "connectx"
+          ],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "05-tutorial-getting-started-with-halite.ipynb",
+          "type": "tutorial",
+          "title": "Getting Started with Halite",
+          "lesson": "Getting Started with Halite",
+          "original": "https://www.kaggle.com/alexisbcook/getting-started-with-halite",
+          "datasets": [],
+          "competitions": [
+            "halite"
+          ],
+          "kernels": [],
+          "gpu": false
+        }
+      ]
+    },
+    {
+      "dir": "legacy-natural-language-processing",
+      "upstream_track": "nlp",
+      "name": "Natural Language Processing",
+      "url": "https://www.kaggle.com/learn/natural-language-processing",
+      "legacy": true,
+      "datasets": [
+        "alexisbcook/geospatial-learn-course-data",
+        "matleonard/nlp-course"
+      ],
+      "competitions": [],
+      "kernels": [],
+      "notebooks": [
+        {
+          "file": "01-tutorial-intro-to-nlp.ipynb",
+          "type": "tutorial",
+          "title": "Intro to NLP",
+          "lesson": "Intro to NLP",
+          "original": "https://www.kaggle.com/matleonard/intro-to-nlp",
+          "datasets": [
+            "alexisbcook/geospatial-learn-course-data",
+            "matleonard/nlp-course"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "01-exercise-intro-to-nlp.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Intro to NLP",
+          "lesson": "Intro to NLP",
+          "original": "https://www.kaggle.com/matleonard/exercise-intro-to-nlp",
+          "datasets": [
+            "alexisbcook/geospatial-learn-course-data",
+            "matleonard/nlp-course"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "02-tutorial-text-classification.ipynb",
+          "type": "tutorial",
+          "title": "Text Classification",
+          "lesson": "Text Classification",
+          "original": "https://www.kaggle.com/matleonard/text-classification",
+          "datasets": [
+            "alexisbcook/geospatial-learn-course-data",
+            "matleonard/nlp-course"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "02-exercise-text-classification.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Text Classification",
+          "lesson": "Text Classification",
+          "original": "https://www.kaggle.com/matleonard/exercise-text-classification",
+          "datasets": [
+            "alexisbcook/geospatial-learn-course-data",
+            "matleonard/nlp-course"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "03-tutorial-word-vectors.ipynb",
+          "type": "tutorial",
+          "title": "Word Vectors",
+          "lesson": "Word Vectors",
+          "original": "https://www.kaggle.com/matleonard/word-vectors",
+          "datasets": [
+            "alexisbcook/geospatial-learn-course-data",
+            "matleonard/nlp-course"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "03-exercise-word-vectors.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Word Vectors",
+          "lesson": "Word Vectors",
+          "original": "https://www.kaggle.com/matleonard/exercise-word-vectors",
+          "datasets": [
+            "alexisbcook/geospatial-learn-course-data",
+            "matleonard/nlp-course"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        }
+      ]
+    },
+    {
+      "dir": "legacy-deep-learning",
+      "upstream_track": "deep_learning",
+      "name": "Deep Learning",
+      "url": "https://www.kaggle.com/learn/deep-learning",
+      "legacy": true,
+      "datasets": [
+        "alexisbcook/resnet50",
+        "alexisbcook/vgg16",
+        "dansbecker/dogs-gone-sideways",
+        "dansbecker/hot-dog-not-hot-dog",
+        "dansbecker/urban-and-rural-photos",
+        "keras/resnet50",
+        "zalando-research/fashionmnist"
+      ],
+      "competitions": [
+        "digit-recognizer",
+        "dog-breed-identification",
+        "tpu-getting-started"
+      ],
+      "kernels": [],
+      "notebooks": [
+        {
+          "file": "01-tutorial-intro-to-deep-learning-and-computer-vision.ipynb",
+          "type": "tutorial",
+          "title": "Intro to Deep Learning and Computer Vision",
+          "lesson": "Intro to Deep Learning and Computer Vision",
+          "original": "https://www.kaggle.com/dansbecker/intro-to-deep-learning-and-computer-vision",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "01-exercise-intro-to-deep-learning-and-computer-vision.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Intro to Deep Learning and Computer Vision",
+          "lesson": "Intro to Deep Learning and Computer Vision",
+          "original": "https://www.kaggle.com/dansbecker/exercise-intro-to-deep-learning-and-computer-vis",
+          "datasets": [
+            "keras/resnet50"
+          ],
+          "competitions": [
+            "dog-breed-identification"
+          ],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "02-tutorial-building-models-from-convolutions.ipynb",
+          "type": "tutorial",
+          "title": "Building Models From Convolutions",
+          "lesson": "Building Models from Convolutions",
+          "original": "https://www.kaggle.com/dansbecker/building-models-from-convolutions",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "03-tutorial-tensorflow-programming.ipynb",
+          "type": "tutorial",
+          "title": "TensorFlow Programming",
+          "lesson": "TensorFlow programming",
+          "original": "https://www.kaggle.com/dansbecker/tensorflow-programming",
+          "datasets": [
+            "keras/resnet50"
+          ],
+          "competitions": [
+            "dog-breed-identification"
+          ],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "03-exercise-tensorflow-programming.ipynb",
+          "type": "exercise",
+          "title": "Exercise: TensorFlow Programming",
+          "lesson": "TensorFlow programming",
+          "original": "https://www.kaggle.com/dansbecker/exercise-tensorflow-programming",
+          "datasets": [
+            "alexisbcook/resnet50",
+            "alexisbcook/vgg16",
+            "dansbecker/hot-dog-not-hot-dog"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": true
+        },
+        {
+          "file": "04-tutorial-transfer-learning.ipynb",
+          "type": "tutorial",
+          "title": "Transfer Learning",
+          "lesson": "Transfer Learning",
+          "original": "https://www.kaggle.com/dansbecker/transfer-learning",
+          "datasets": [
+            "dansbecker/urban-and-rural-photos",
+            "keras/resnet50"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "04-exercise-transfer-learning.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Transfer Learning",
+          "lesson": "Transfer Learning",
+          "original": "https://www.kaggle.com/dansbecker/exercise-transfer-learning",
+          "datasets": [
+            "alexisbcook/resnet50",
+            "dansbecker/dogs-gone-sideways"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": true
+        },
+        {
+          "file": "05-tutorial-data-augmentation.ipynb",
+          "type": "tutorial",
+          "title": "Data Augmentation",
+          "lesson": "Data Augmentation",
+          "original": "https://www.kaggle.com/dansbecker/data-augmentation",
+          "datasets": [
+            "dansbecker/urban-and-rural-photos",
+            "keras/resnet50"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "05-exercise-data-augmentation.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Data Augmentation",
+          "lesson": "Data Augmentation",
+          "original": "https://www.kaggle.com/dansbecker/exercise-data-augmentation",
+          "datasets": [
+            "alexisbcook/resnet50",
+            "dansbecker/dogs-gone-sideways"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": true
+        },
+        {
+          "file": "06-tutorial-a-deeper-understanding-of-deep-learning.ipynb",
+          "type": "tutorial",
+          "title": "A Deeper Understanding of Deep Learning",
+          "lesson": "A Deeper Understanding of Deep Learning",
+          "original": "https://www.kaggle.com/dansbecker/a-deeper-understanding-of-deep-learning",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "07-tutorial-deep-learning-from-scratch.ipynb",
+          "type": "tutorial",
+          "title": "Deep Learning From Scratch",
+          "lesson": "Deep Learning from Scratch",
+          "original": "https://www.kaggle.com/dansbecker/deep-learning-from-scratch",
+          "datasets": [
+            "zalando-research/fashionmnist"
+          ],
+          "competitions": [
+            "digit-recognizer"
+          ],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "07-exercise-deep-learning-from-scratch.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Deep Learning From Scratch",
+          "lesson": "Deep Learning from Scratch",
+          "original": "https://www.kaggle.com/dansbecker/exercise-deep-learning-from-scratch",
+          "datasets": [
+            "zalando-research/fashionmnist"
+          ],
+          "competitions": [
+            "digit-recognizer"
+          ],
+          "kernels": [],
+          "gpu": true
+        },
+        {
+          "file": "08-tutorial-dropout-and-strides-for-larger-models.ipynb",
+          "type": "tutorial",
+          "title": "Dropout and Strides for Larger Models",
+          "lesson": "Dropout and Strides for Larger Models",
+          "original": "https://www.kaggle.com/dansbecker/dropout-and-strides-for-larger-models",
+          "datasets": [
+            "zalando-research/fashionmnist"
+          ],
+          "competitions": [
+            "digit-recognizer"
+          ],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "08-exercise-dropout-and-strides-for-larger-models.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Dropout and Strides for Larger Models",
+          "lesson": "Dropout and Strides for Larger Models",
+          "original": "https://www.kaggle.com/dansbecker/exercise-dropout-and-strides-for-larger-models",
+          "datasets": [
+            "zalando-research/fashionmnist"
+          ],
+          "competitions": [
+            "digit-recognizer"
+          ],
+          "kernels": [],
+          "gpu": true
+        },
+        {
+          "file": "09-tutorial-create-your-first-submission.ipynb",
+          "type": "tutorial",
+          "title": "Create Your First Submission",
+          "lesson": "Create Your First Submission",
+          "original": "https://www.kaggle.com/dansbecker/create-your-first-submission",
+          "datasets": [],
+          "competitions": [
+            "tpu-getting-started"
+          ],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "09-exercise-create-your-first-submission.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Create Your First Submission",
+          "lesson": "Create Your First Submission",
+          "original": "https://www.kaggle.com/dansbecker/exercise-create-your-first-submission",
+          "datasets": [],
+          "competitions": [
+            "tpu-getting-started"
+          ],
+          "kernels": [],
+          "gpu": false
+        }
+      ]
+    },
+    {
+      "dir": "legacy-feature-engineering",
+      "upstream_track": "feature_engineering",
+      "name": "Feature Engineering",
+      "url": "https://www.kaggle.com/learn/feature-engineering",
+      "legacy": true,
+      "datasets": [
+        "kemical/kickstarter-projects",
+        "matleonard/feature-engineering-data"
+      ],
+      "competitions": [],
+      "kernels": [],
+      "notebooks": [
+        {
+          "file": "01-tutorial-baseline-model.ipynb",
+          "type": "tutorial",
+          "title": "Baseline Model",
+          "lesson": "Baseline Model",
+          "original": "https://www.kaggle.com/matleonard/baseline-model",
+          "datasets": [
+            "kemical/kickstarter-projects",
+            "matleonard/feature-engineering-data"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "01-exercise-baseline-model.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Baseline Model",
+          "lesson": "Baseline Model",
+          "original": "https://www.kaggle.com/matleonard/exercise-baseline-model",
+          "datasets": [
+            "kemical/kickstarter-projects",
+            "matleonard/feature-engineering-data"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "02-tutorial-categorical-encodings.ipynb",
+          "type": "tutorial",
+          "title": "Categorical Encodings",
+          "lesson": "Categorical Encodings",
+          "original": "https://www.kaggle.com/matleonard/categorical-encodings",
+          "datasets": [
+            "kemical/kickstarter-projects",
+            "matleonard/feature-engineering-data"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "02-exercise-categorical-encodings.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Categorical Encodings",
+          "lesson": "Categorical Encodings",
+          "original": "https://www.kaggle.com/matleonard/exercise-categorical-encodings",
+          "datasets": [
+            "kemical/kickstarter-projects",
+            "matleonard/feature-engineering-data"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "03-tutorial-feature-generation.ipynb",
+          "type": "tutorial",
+          "title": "Feature Generation",
+          "lesson": "Feature Generation",
+          "original": "https://www.kaggle.com/matleonard/feature-generation",
+          "datasets": [
+            "kemical/kickstarter-projects",
+            "matleonard/feature-engineering-data"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "03-exercise-feature-generation.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Feature Generation",
+          "lesson": "Feature Generation",
+          "original": "https://www.kaggle.com/matleonard/exercise-feature-generation",
+          "datasets": [
+            "kemical/kickstarter-projects",
+            "matleonard/feature-engineering-data"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "04-tutorial-feature-selection.ipynb",
+          "type": "tutorial",
+          "title": "Feature Selection",
+          "lesson": "Feature Selection",
+          "original": "https://www.kaggle.com/matleonard/feature-selection",
+          "datasets": [
+            "kemical/kickstarter-projects",
+            "matleonard/feature-engineering-data"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "04-exercise-feature-selection.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Feature Selection",
+          "lesson": "Feature Selection",
+          "original": "https://www.kaggle.com/matleonard/exercise-feature-selection",
+          "datasets": [
+            "kemical/kickstarter-projects",
+            "matleonard/feature-engineering-data"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        }
+      ]
+    },
+    {
+      "dir": "legacy-embeddings",
+      "upstream_track": "embeddings",
+      "name": "Embeddings",
+      "url": "https://www.kaggle.com/learn/embeddings",
+      "legacy": true,
+      "datasets": [
+        "grouplens/movielens-20m-dataset"
+      ],
+      "competitions": [],
+      "kernels": [
+        "colinmorris/embedding-layers",
+        "colinmorris/matrix-factorization",
+        "colinmorris/movielens-preprocessing",
+        "colinmorris/movielens-spiffy-model",
+        "colinmorris/regularized-movielens-factorization-model",
+        "colinmorris/visualizing-embeddings-with-t-sne"
+      ],
+      "notebooks": [
+        {
+          "file": "01-tutorial-embedding-layers.ipynb",
+          "type": "tutorial",
+          "title": "Embedding Layers",
+          "lesson": "embedding layers",
+          "original": "https://www.kaggle.com/colinmorris/embedding-layers",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [
+            "colinmorris/movielens-preprocessing"
+          ],
+          "gpu": false
+        },
+        {
+          "file": "01-exercise-embedding-layers.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Embedding Layers",
+          "lesson": "embedding layers",
+          "original": "https://www.kaggle.com/colinmorris/exercise-embedding-layers",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [
+            "colinmorris/movielens-preprocessing"
+          ],
+          "gpu": false
+        },
+        {
+          "file": "02-tutorial-matrix-factorization.ipynb",
+          "type": "tutorial",
+          "title": "Matrix Factorization",
+          "lesson": "matrix factorization",
+          "original": "https://www.kaggle.com/colinmorris/matrix-factorization",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [
+            "colinmorris/embedding-layers",
+            "colinmorris/movielens-preprocessing"
+          ],
+          "gpu": false
+        },
+        {
+          "file": "02-exercise-matrix-factorization.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Matrix Factorization",
+          "lesson": "matrix factorization",
+          "original": "https://www.kaggle.com/colinmorris/exercise-matrix-factorization",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [
+            "colinmorris/matrix-factorization",
+            "colinmorris/movielens-preprocessing",
+            "colinmorris/regularized-movielens-factorization-model"
+          ],
+          "gpu": false
+        },
+        {
+          "file": "03-tutorial-exploring-embeddings-with-gensim.ipynb",
+          "type": "tutorial",
+          "title": "Exploring Embeddings with Gensim",
+          "lesson": "exploring embeddings with gensim",
+          "original": "https://www.kaggle.com/colinmorris/exploring-embeddings-with-gensim",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [
+            "colinmorris/movielens-preprocessing",
+            "colinmorris/movielens-spiffy-model"
+          ],
+          "gpu": false
+        },
+        {
+          "file": "03-exercise-exploring-embeddings-with-gensim.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Exploring Embeddings with Gensim",
+          "lesson": "exploring embeddings with gensim",
+          "original": "https://www.kaggle.com/colinmorris/exercise-exploring-embeddings-with-gensim",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [
+            "colinmorris/movielens-preprocessing",
+            "colinmorris/movielens-spiffy-model"
+          ],
+          "gpu": false
+        },
+        {
+          "file": "04-tutorial-visualizing-embeddings-with-t-sne.ipynb",
+          "type": "tutorial",
+          "title": "Visualizing Embeddings with t-SNE",
+          "lesson": "visualizing embeddings with t-SNE",
+          "original": "https://www.kaggle.com/colinmorris/visualizing-embeddings-with-t-sne",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [
+            "colinmorris/movielens-preprocessing",
+            "colinmorris/movielens-spiffy-model"
+          ],
+          "gpu": false
+        },
+        {
+          "file": "04-exercise-visualizing-embeddings-with-t-sne.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Visualizing Embeddings with t-SNE",
+          "lesson": "visualizing embeddings with t-SNE",
+          "original": "https://www.kaggle.com/colinmorris/exercise-visualizing-embeddings-with-t-sne",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [
+            "colinmorris/movielens-preprocessing",
+            "colinmorris/visualizing-embeddings-with-t-sne"
+          ],
+          "gpu": false
+        },
+        {
+          "file": "extra-0-movie-preprocessing.ipynb",
+          "type": "extra",
+          "title": "MovieLens Preprocessing",
+          "lesson": null,
+          "original": "https://www.kaggle.com/colinmorris/movielens-preprocessing",
+          "datasets": [
+            "grouplens/movielens-20m-dataset"
+          ],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "extra-x2-movielens-factorization-r12n.ipynb",
+          "type": "extra",
+          "title": "Regularized MovieLens factorization model",
+          "lesson": null,
+          "original": "https://www.kaggle.com/colinmorris/regularized-movielens-factorization-model",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [
+            "colinmorris/movielens-preprocessing"
+          ],
+          "gpu": false
+        },
+        {
+          "file": "extra-x3-movielens-spiffy-model.ipynb",
+          "type": "extra",
+          "title": "MovieLens Spiffy Model",
+          "lesson": null,
+          "original": "https://www.kaggle.com/colinmorris/movielens-spiffy-model",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [
+            "colinmorris/movielens-preprocessing"
+          ],
+          "gpu": false
+        }
+      ]
+    },
+    {
+      "dir": "legacy-microchallenges",
+      "upstream_track": "microchallenges",
+      "name": "Microchallenges",
+      "url": "https://www.kaggle.com/learn/microchallenges",
+      "legacy": true,
+      "datasets": [],
+      "competitions": [],
+      "kernels": [],
+      "notebooks": [
+        {
+          "file": "01-tutorial-blackjack-microchallenge.ipynb",
+          "type": "tutorial",
+          "title": "Blackjack Microchallenge",
+          "lesson": "Blackjack Microchallenge",
+          "original": "https://www.kaggle.com/alexisbcook/blackjack-microchallenge",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "02-tutorial-airline-price-optimization-microchallenge.ipynb",
+          "type": "tutorial",
+          "title": "Airline Price Optimization Microchallenge",
+          "lesson": "Airline Price Optimization Microchallenge",
+          "original": "https://www.kaggle.com/alexisbcook/airline-price-optimization-microchallenge",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        }
+      ]
+    },
+    {
+      "dir": "legacy-bigquery-ml",
+      "upstream_track": "bqml",
+      "name": "Machine Learning",
+      "url": "https://www.kaggle.com/learn/intro-to-machine-learning",
+      "legacy": true,
+      "datasets": [],
+      "competitions": [],
+      "kernels": [],
+      "notebooks": [
+        {
+          "file": "01-tutorial-your-first-biqquery-ml-model.ipynb",
+          "type": "tutorial",
+          "title": "Your First BiqQuery ML Model",
+          "lesson": "Your First BiqQuery ML Model",
+          "original": "https://www.kaggle.com/dansbecker/your-first-biqquery-ml-model",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        },
+        {
+          "file": "01-exercise-your-first-biqquery-ml-model.ipynb",
+          "type": "exercise",
+          "title": "Exercise: Your First BiqQuery ML Model",
+          "lesson": "Your First BiqQuery ML Model",
+          "original": "https://www.kaggle.com/dansbecker/exercise-your-first-biqquery-ml-model",
+          "datasets": [],
+          "competitions": [],
+          "kernels": [],
+          "gpu": false
+        }
+      ]
+    }
+  ]
+}

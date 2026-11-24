@@ -1,0 +1,5 @@
+# Data Cleaning
+-r ../requirements.txt
+charset-normalizer
+fuzzywuzzy[speedup]
+mlxtend
